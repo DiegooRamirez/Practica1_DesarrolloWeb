@@ -11,5 +11,6 @@
 
 .starwars{
     color: rgb(212, 212, 4);
+    background-color: black;
     font-weight: bold;
 }
